@@ -1,5 +1,5 @@
-let sentences = ["Hello, Im Piotr" , "How are You?" , "Wanna hang out?", "yeah sure"]
-let data = "How old are You?"
+const sentences = ["Hello, Im Piotr" , "How are You?" , "Wanna hang out?", "yeah sure"]
+const data = "How old are You?"
 
 const Levenshtein = () =>{
     let result = [];
